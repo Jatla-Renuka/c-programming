@@ -7,3 +7,10 @@ void main()
 	y=y+10;
 	printf("\n%d,%d",x,y);
 }
+int main()
+{
+	function();
+	function();
+	function();
+	return 0;
+}
